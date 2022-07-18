@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @DhaniAM
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Computer Science
+- 👋 Hello there, I’m Dhani
+- 👀 I love Computer and I'm interested in Computer Science
+- ☘️ I have experience with: UI/UX, HTML, CSS, Javascript, React, Dart, Flutter
+- 🎯 I’m currently focusing on Dart/Flutter
 - 📫 How to reach me : dhani.a.mm@gmail.com
 
 <!---
