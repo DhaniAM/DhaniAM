@@ -1,7 +1,7 @@
-- 👋 Hello there, I’m Dhani
-- 👀 I love Computer and I'm interested in Computer Science
-- ☘️ I have experience with: UI/UX, HTML, CSS, Javascript, React, Dart, Flutter
-- 🎯 I’m currently focusing on Dart/Flutter
+- 😄 Hello there, it's me Dhani
+- 🕹️ I really love Computer Science (and also games too)
+- ✨ I have experience with: UI/UX, HTML, CSS, Javascript, React, Dart, Flutter
+- ❤️ But now I mainly just focus on Dart/Flutter
 - 📫 How to reach me : dhani.a.mm@gmail.com
 
 <!---
