@@ -2,7 +2,7 @@
 - 🕹️ I really love Computer Science (and also games too)
 - ✨ I have experience with: UI/UX, HTML, CSS, Javascript, React, Dart, Flutter
 - ❤️ But now I mainly just focus on Dart/Flutter
-- 📝 I finished Multi-Platform App Developer learning path at [Dicoding](https://www.dicoding.com "Dicoding website")
+- 📝 I finished Multi-Platform App (Flutter) Developer learning path at [Dicoding](https://www.dicoding.com "Dicoding website")
 - 📫 How to reach me : dhani.a.mm@gmail.com
 
 <!---
