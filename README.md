@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Dhani</h1>
 <h3 align="center">A passionate developer focusing on Flutter</h3>
 
-- ✨ I’m currently working on **All of Me, which is my All-in-one project portfolios**
+- ✨ I’m currently working on **All of Me**, which is my All-in-One project portfolios
 
-- ❤️ I’m currently focusing on **Flutter**
+- ❤️ I mainly focus on **Dart** and **Flutter**
 
-- 😁 I’m looking to collaborate on **Flutter project**
+- 🤝 I’m looking to collaborate on **Flutter project**
 
 - 🌎 All of my projects are available at [https://dhaniam.github.io/My-CV-2/portfolio.html](https://dhaniam.github.io/My-CV-2/portfolio.html)
 
 - 📝 Know about my experiences [https://dhaniam.github.io/My-CV-2/resume.html](https://dhaniam.github.io/My-CV-2/resume.html)
 
-- 💬 Ask me about **Dart & Flutter**
-
 - 📫 How to reach me **dhani.a.mm@gmail.com**
 
-- ⚡ Fun fact **I love playing games!!!**
+- 🕹️ Fun fact **I love playing games!!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -47,8 +45,6 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<div style="height: 100px"></div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhaniam&show_icons=true&theme=dark&locale=en&layout=compact" alt="dhaniam" /></p>
 
