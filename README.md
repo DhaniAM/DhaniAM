@@ -5,7 +5,7 @@
 
 - ❤️ I mainly focus on **Dart** and **Flutter**
 
-- 🤝 I’m looking to collaborate on **Flutter project**
+- 🤝 I’m looking for my first job as **Flutter Developer**
 
 - 📝 All of my projects and resume are available at [https://dhaniam.github.io/My-CV-2](https://dhaniam.github.io/My-CV-2/)
 
