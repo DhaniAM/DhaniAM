@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dhani.a.mm@gmail.com**
 
-- 🕹️ Fun fact **I love playing games!!!**
+- 🕹️ Fun fact: **I love playing games!!!**
 
 <hr />
 
