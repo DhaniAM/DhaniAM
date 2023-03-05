@@ -7,9 +7,7 @@
 
 - 🤝 I’m looking to collaborate on **Flutter project**
 
-- 🌎 All of my projects are available at [https://dhaniam.github.io/My-CV-2/portfolio.html](https://dhaniam.github.io/My-CV-2/portfolio.html)
-
-- 📝 Know about my experiences [https://dhaniam.github.io/My-CV-2/resume.html](https://dhaniam.github.io/My-CV-2/resume.html)
+- 📝 All of my projects and resume are available at [https://dhaniam.github.io/My-CV-2](https://dhaniam.github.io/My-CV-2/)
 
 - 📫 How to reach me **dhani.a.mm@gmail.com**
 
