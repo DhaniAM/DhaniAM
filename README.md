@@ -15,6 +15,10 @@
 
 <hr>
 
+<h3> Short Story About Me</h3>
+I actually have graduated from medical school before (not doctor) but I feel empty in this medical field. I feel that I'm lost and don't belong here. All the people and the knowledge don't feel interesting to me. But at one time on my free time, I got to know more about coding and so I started to doing one. And then, I feel immediately hook and interested in coding. I feel so satisfied doing it and I also find that the people in tech field are very much similar in term of knowledge and personality with me. For once in my life I start feeling like I'm belong here. I should've done this thing from the very beginning time in my life. But it's okay. **It's never too late do anyhting in your life**. So I continue my degree in Computer Science in early of 2022. So right now I'm on my way to becoming a **Computer Scientist** if you say so.
+
+<hr>
 <!-- Connect -->
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/ramadhani-a-a9a3a1193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramadhani-a-a9a3a1193" height="30" width="40" /></a>
@@ -62,7 +66,7 @@
 
 <hr >
 <!--Trophy -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhaniam" alt="dhaniam" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhaniam" alt="dhaniam" /></a> </p>
 
 <!-- View count -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhaniam&label=Profile%20views&color=00b32d&style=flat" alt="dhaniam" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=dhaniam&label=Profile%20views&color=00b32d&style=flat" alt="dhaniam" /> </p>
