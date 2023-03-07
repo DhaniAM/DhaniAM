@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dhani</h1>
+<h1 align="center">Hello there👋, It's me Dhani</h1>
 <h3 align="center">A passionate developer focusing on Flutter</h3>
 
 - ✨ I’m currently doing on **All of Me**, which is my project All-in-One portfolio app
