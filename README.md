@@ -13,7 +13,7 @@
 
 - 🕹️ Fun fact: **I love playing games!!!**
 
-<hr />
+<hr style="margin-top: 50px; margin-bottom: 50px">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
