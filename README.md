@@ -64,9 +64,9 @@ I have actually graduated from medical school before, but I don't feel fulfilled
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhaniam&show_icons=true&theme=dark&locale=en&layout=compact" alt="dhaniam" />
 </p>
 
-<hr >
+<!-- <hr > -->
 <!--Trophy -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhaniam" alt="dhaniam" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhaniam" alt="dhaniam" /></a> </p> -->
 
 <!-- View count -->
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=dhaniam&label=Profile%20views&color=00b32d&style=flat" alt="dhaniam" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dhaniam&label=Profile%20views&color=00b32d&style=flat" alt="dhaniam" /> </p>
