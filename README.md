@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dhani</h1>
 <h3 align="center">A passionate developer focusing on Flutter</h3>
 
-- ✨ I’m currently working on **All of Me**, which is my All-in-One project portfolios
+- ✨ I’m currently doing on **All of Me**, which is my project All-in-One portfolio app
 
 - ❤️ I mainly focus on **Dart** and **Flutter**
 
-- 🤝 I’m looking for my first job as **Flutter Developer**
+- 🤝 I’m currently looking for my first job as **Flutter Developer**
 
 - 📝 All of my projects and resume are available at [https://dhaniam.github.io/My-CV-2](https://dhaniam.github.io/My-CV-2/)
 
@@ -16,7 +16,7 @@
 <hr>
 
 <h3> Short Story About Me</h3>
-I actually have graduated from medical school before (not doctor) but I feel empty in this medical field. I feel that I'm lost and don't belong here. All the people and the knowledge don't feel interesting to me. But at one time on my free time, I got to know more about coding and so I started to doing one. And then, I feel immediately hook and interested in coding. I feel so satisfied doing it and I also find that the people in tech field are very much similar in term of knowledge and personality with me. For once in my life I start feeling like I'm belong here. I should've done this thing from the very beginning time in my life. But it's okay. **It's never too late do anyhting in your life**. So I continue my degree in Computer Science in early of 2022. So right now I'm on my way to becoming a **Computer Scientist** if you say so.
+I have actually graduated from medical school before, but I don't feel fulfilled in this field. I feel lost and out of place. Despite the interesting people and knowledge, it does not captivate my interest. However, during my free time, I became interested in coding and began doing it. I immediately became hooked and found satisfaction in it. I also found that the people in the tech field share similar knowledge and personalities with me. For once, I feel like I belong here. I should have pursued this field from the beginning of my life, but <b><i>it's never too late to do anything</i></b>. Therefore, I have decided to pursue a degree in Computer Science, and I am on my way to becoming a Computer Scientist.
 
 <hr>
 <!-- Connect -->
