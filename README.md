@@ -7,7 +7,7 @@
 
 - 📝 All of my projects and resume are available at [https://dhaniam.github.io/My-CV-2](https://dhaniam.github.io/My-CV-2/)
 
-- 📫 How to reach me [**dhani.a.mm@gmail.com**](mailto:dhani.a.mm@gmail.com)
+- 📫 How to reach me [**dhani.a.mm@gmail.com**](mailto:dhani.a.mm@gmail.com?)
 
 - 🕹️ Fun fact: **I love playing games!!! (and coding of course)**
 
