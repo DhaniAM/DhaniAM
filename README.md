@@ -8,7 +8,7 @@
 
 
 <div style="display: inline-block; margin-left: 20px;">
- <p>✨ I’m currently working on <b>Borneo Biz Indonesia</b>, which is a local marketplace based in Banjarmasin</p>
+ <p>✨ I’m currently working at <b>Borneo Biz Indonesia</b>, which is a local marketplace based in Banjarmasin</p>
  
  <p>❤️ I used to focus on <b>Dart</b> and <b>Flutter</b>, but now I focus on <b>Next.js</b> and <b>Django</b></p>
  
