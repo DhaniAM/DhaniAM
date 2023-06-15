@@ -1,17 +1,15 @@
 <h1 align="center">Hello there👋, It's me Dhani</h1>
-<h3 align="center">A passionate developer focusing on Flutter</h3>
+<h3 align="center">A passionate developer focuses on what is given at hand</h3>
 
-- ✨ I’m currently doing on **All of Me**, which is my project All-in-One portfolio app
+- ✨ I’m currently working on **Borneo Biz Indonesia**, which is a local marketplace based in Banjarmasin
 
-- ❤️ I mainly focus on **Dart** and **Flutter**
-
-- 🤝 I’m currently looking for a job as **Flutter Developer**
+- ❤️ I used to focus on **Dart** and **Flutter**, but now I focus on Next.js and Django
 
 - 📝 All of my projects and resume are available at [https://dhaniam.github.io/My-CV-2](https://dhaniam.github.io/My-CV-2/)
 
-- 📫 How to reach me **dhani.a.mm@gmail.com**
+- 📫 How to reach me <a href="mailto:dhani.a.mm@gmail.com" style="color:orange;">**dhani.a.mm@gmail.com**</a>
 
-- 🕹️ Fun fact: **I love playing games!!!**
+- 🕹️ Fun fact: **I love playing games!!! (and coding of course)**
 
 <hr>
 
