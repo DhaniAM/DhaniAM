@@ -4,7 +4,7 @@
 <h3 align="center"><i>A passionate developer focuses on what is given at hand</i></h3>
 
 <!-- GIF -->
-<img align="right" alt="cat coding" width="200" src="https://gifdb.com/images/high/black-cat-typing-fast-z5sz7os422wrp0pt.webp">
+<img align="right" alt="cat coding" width="190" src="https://gifdb.com/images/high/black-cat-typing-fast-z5sz7os422wrp0pt.webp">
 
 
 <div style="display: inline-block; margin-left: 20px;">
