@@ -1,5 +1,10 @@
+ <img alt="banner" style="object-fit:contain;" src="https://cdn.dribbble.com/users/823181/screenshots/4511085/scenery_illustration.gif">
+
 <h1 align="center">Hello there👋, It's me Dhani</h1>
 <h3 align="center">A passionate developer focuses on what is given at hand</h3>
+
+
+<img align="right" alt="cat coding" width="200" src="https://gifdb.com/images/high/black-cat-typing-fast-z5sz7os422wrp0pt.webp">
 
 - ✨ I’m currently working on **Borneo Biz Indonesia**, which is a local marketplace based in Banjarmasin
 
