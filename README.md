@@ -16,7 +16,7 @@
  
  <p>📫 How to reach me <a href="mailto:dhani.a.mm@gmail.com" target="_blank">dhani.a.mm@gmail.com</a></p>
  
- <p>🕹️ Fun fact: <b>I love playing games!!! (and coding too of course)</b></p>
+ <p>🕹️ Fun fact: <b>I love playing games!!!!</b> (and coding too of course)</p>
 </div>
 
 <hr>
