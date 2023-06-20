@@ -68,6 +68,9 @@ I have graduated from medical school before, but I don't feel fulfilled in this 
 
 <hr/>
 
+<!-- GIF -->
+<img alt="landscape" width="100%" src="https://i.pinimg.com/originals/27/1f/9e/271f9e3efbc58dbb075903c7096ba99c.gif">
+
 <!--   Streak -->
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhaniam&theme=default" alt="dhaniam" />
@@ -89,7 +92,4 @@ I have graduated from medical school before, but I don't feel fulfilled in this 
 
 <!-- View count -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dhaniam&label=Profile%20views&color=00b32d&style=flat" alt="dhaniam" /> </p>
-
-<!-- GIF -->
-<img alt="cat coding" width="100%" src="https://i.pinimg.com/originals/27/1f/9e/271f9e3efbc58dbb075903c7096ba99c.gif">
 
