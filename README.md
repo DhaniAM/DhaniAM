@@ -9,13 +9,9 @@
 
 <div style="display: inline-block; margin-left: 20px;">
  <p>✨ I’m currently working at <b>Borneo Biz Indonesia</b>, which is a local marketplace based in Banjarmasin</p>
- 
  <p>❤️ I used to focus on <b>Dart</b> and <b>Flutter</b>, but now I focus on <b>Next.js</b> and <b>Django</b></p>
- 
  <p>📝 All of my projects and resume are available at <a href="https://dhaniam.github.io/My-CV-2/" target="_blank">my website</a></p>
- 
  <p>📫 How to reach me <a href="mailto:dhani.a.mm@gmail.com" target="_blank">dhani.a.mm@gmail.com</a></p>
- 
  <p>🕹️ Fun fact: <b>I love playing games!!!!</b> (and coding too of course)</p>
 </div>
 
@@ -24,8 +20,13 @@
 <h3> Short Story About Me</h3>
 I have graduated from medical school before, but I don't feel fulfilled in this field. I feel lost and out of place. Despite the interesting people and knowledge, it does not captivate my interest. However, during my free time, I became interested in coding and began doing it. I immediately became hooked and found satisfaction in it. I also found that the people in the tech field share similar knowledge and personalities with me. For once, I feel like I belong here. I should have pursued this field from the beginning of my life, but <b><i>it's never too late to do anything</i></b>. Therefore, I have decided to pursue a degree in Computer Science, and I am on my way to becoming a Computer Scientist. Despite creating numerous portfolios, I have yet to obtain a job as a developer. I am right now actively seeking my first developer job to gain experience.
 
-<hr>
+<!-- Snake GIF -->
+<div align="center">
+ 
+  ![Snake animation](https://github.com/DhaniAM/DhaniAM/blob/output/github-contribution-grid-snake.svg)
+</div>
 
+<hr>
 
 <!-- Connect -->
 <h3 align="left">Connect with me:</h3>
@@ -71,17 +72,17 @@ I have graduated from medical school before, but I don't feel fulfilled in this 
 <!-- GIF -->
 <img alt="landscape" width="100%" src="https://i.pinimg.com/originals/27/1f/9e/271f9e3efbc58dbb075903c7096ba99c.gif">
 
-<!--   Streak -->
+<!-- Streak -->
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhaniam&theme=default" alt="dhaniam" />
 </p>
 
-<!--   Stats -->
+<!-- Stats -->
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhaniam&show_icons=true&theme=dark&locale=en" alt="dhaniam" />
 </p>
 
-<!--   Most used language -->
+<!-- Most used language -->
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhaniam&show_icons=true&theme=dark&locale=en&layout=compact" alt="dhaniam" />
 </p>
@@ -92,6 +93,3 @@ I have graduated from medical school before, but I don't feel fulfilled in this 
 
 <!-- View count -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dhaniam&label=Profile%20views&color=00b32d&style=flat" alt="dhaniam" /> </p>
-
-<!-- Snake GIF -->
-![Snake animation](https://github.com/DhaniAM/DhaniAM/blob/output/github-contribution-grid-snake.svg)
