@@ -18,7 +18,7 @@
 <hr>
 
 <h3> Short Story About Me</h3>
-I have graduated from medical school before, but I don't feel fulfilled in this field. I feel lost and out of place. Despite the interesting people and knowledge, it does not captivate my interest. However, during my free time, I became interested in coding and began doing it. I immediately became hooked and found satisfaction in it. I also found that the people in the tech field share similar knowledge and personalities with me. For once, I feel like I belong here. I should have pursued this field from the beginning of my life, but <b><i>it's never too late to do anything</i></b>. Therefore, I have decided to pursue a degree in Computer Science, and I am on my way to becoming a Computer Scientist. Despite creating numerous portfolios, I have yet to obtain a job as a developer. I am right now actively seeking my first developer job to gain experience.
+I have graduated from medical school before, but I don't feel fulfilled in this field. I feel lost and out of place. Despite the interesting people and knowledge, it does not captivate my interest. However, during my free time, I became interested in coding and began doing it. I immediately became hooked and found satisfaction in it. I also found that the people in the tech field share similar knowledge, perspective, and personality with me. For once, I feel like I belong here. I should have pursued this field from the start, but <b><i>it's never too late to do anything</i></b>. Therefore, I have decided to pursue a degree in Computer Science, and I am on my way to becoming a Computer Scientist.
 
 <!-- Snake GIF -->
 <div align="center">
