@@ -40,20 +40,21 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-
+      - name: Generate Snake Game SVG
+        uses: Platane/snk@v3
+        with:
       # - name: Generate Snake Game SVG
       #   uses: Platane/snk@master
       #   with:
-      #     github_user_name: DhaniAM
+          # github_user_name: DhaniAM
       #     svg_out_path: dist/github-contribution-grid-snake.svg
       #     snake_color: "#FFA500"  # Orange color
       #     dot_color: "#008080"    # Teal color
-      - name: Generate Snake Game SVG
-        run: |
-          output=$(Platane/snk@master --github-user-name DhaniAM --svg-out-path dist/github-contribution-grid-snake.svg --snake-color "#FFA500" --dot-color "#008080")
-          echo "::set-output name=generated_output::$output"
+          github_user_name: DhaniAM
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
 
       - name: Deploy to GitHub Pages
