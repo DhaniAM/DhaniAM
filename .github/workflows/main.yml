@@ -43,13 +43,18 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
+      # - name: Generate Snake Game SVG
+      #   uses: Platane/snk@master
+      #   with:
+      #     github_user_name: DhaniAM
+      #     svg_out_path: dist/github-contribution-grid-snake.svg
+      #     snake_color: "#FFA500"  # Orange color
+      #     dot_color: "#008080"    # Teal color
       - name: Generate Snake Game SVG
-        uses: Platane/snk@master
-        with:
-          github_user_name: DhaniAM
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          snake_color: "#FFA500"  # Orange color
-          dot_color: "#008080"    # Teal color
+        run: |
+          output=$(Platane/snk@master --github-user-name DhaniAM --svg-out-path dist/github-contribution-grid-snake.svg --snake-color "#FFA500" --dot-color "#008080")
+          echo "::set-output name=generated_output::$output"
+
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.1.3
