@@ -13,6 +13,7 @@
  <p>📝 All of my projects and resume are available at <a href="https://dhaniam.github.io/My-CV-2/" target="_blank">my website</a></p>
  <p>📫 How to reach me <a href="mailto:dhani.a.mm@gmail.com" target="_blank">dhani.a.mm@gmail.com</a></p>
  <p>🕹️ Fun fact: <b>I love playing games!!!!</b> (My Favorite: RDR2 😍)</p>
+ <p>💻 Fav quote: <i>"Premature optimization is the root of all evil"</i> 😈</p>
 </div>
 
 <hr>
