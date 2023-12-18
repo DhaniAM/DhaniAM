@@ -8,8 +8,7 @@
 
 
 <div style="display: inline-block; margin-left: 20px;">
- <p>✨ I’m currently working at <b>Borneo Biz Indonesia</b>, which is a local marketplace based in Banjarmasin</p>
- <p>❤️ I used to focus on <b>Dart</b> and <b>Flutter</b>, but now I focus on <b>Next.js</b> and <b>Django</b></p>
+ <p>❤️ I main on <b>Flutter</b> ,<b>Next.js</b> ,  and <b>Django</b></p>
  <p>📝 All of my projects and resume are available at <a href="https://dhaniam.github.io/My-CV-2/" target="_blank">my website</a></p>
  <p>📫 How to reach me <a href="mailto:dhani.a.mm@gmail.com" target="_blank">dhani.a.mm@gmail.com</a></p>
  <p>🕹️ Fun fact: <b>I love playing games!!!!</b> (My Favorite: RDR2 😍)</p>
