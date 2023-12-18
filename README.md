@@ -8,9 +8,10 @@
 
 
 <div style="display: inline-block; margin-left: 20px;">
- <p>❤️ I main on <b>Flutter</b>, <b>Next.js</b>,  and <b>Django/DRF</b></p>
- <p>📝 All of my projects and resume are available at <a href="https://dhaniam.github.io/My-CV-2/" target="_blank">my website</a></p>
- <p>📫 How to reach me <a href="mailto:dhani.a.mm@gmail.com" target="_blank">dhani.a.mm@gmail.com</a></p>
+ <p>🌟 I main on <i><b>Flutter</b></i>, <i><b>Next.js</b></i>,  and <i><b>Django/DRF</b></i></p>
+ <p>💖 Programming languages I usually use are <i><b>Dart</b></i>, <i><b>JavaScript</b></i>, <i><b>TypeScript</b></i>, and <i><b>Python</b></i></p>
+ <p>📝 All of my projects and resume are available at <i><a href="https://dhaniam.github.io/My-CV-2/" target="_blank">my website</a></i></p>
+ <p>📫 How to reach me <i><a href="mailto:dhani.a.mm@gmail.com" target="_blank">dhani.a.mm@gmail.com</a></i></p>
  <p>🕹️ Fun fact: <b>I love playing games!!!!</b> (My Favorite: RDR2 😍)</p>
  <p>💻 Fav quote: <i>"Premature optimization is the root of all evil"</i> 😈</p>
 </div>
