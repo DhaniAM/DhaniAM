@@ -13,8 +13,8 @@
  <p>🎯 Currently learning <i><b>Svelte</b></i>, <i><b>PHP</b></i>, and <i><b>Laravel</b></i></p>
  <p>📝 All of my projects and resume are available at <i><a href="https://dhaniam.github.io/My-CV-2/" target="_blank">my website</a></i></p>
  <p>📫 How to reach me: <i><a href="mailto:dhani.a.mm@gmail.com" target="_blank">dhani.a.mm@gmail.com</a></i></p>
- <p>🕹️ Fun fact: <b>I love playing games!!!!</b> (My Favorite: RDR2 😍)</p>
- <p>💻 Fav quote: <i>"Premature optimization is the root of all evil"</i> 😈</p>
+ <p>🕹️ Fun fact: <b>I love playing games!!!!</b> (My Favorite: RDR2 💓)</p>
+ <p>💻 <i>"Premature optimization is the root of all evil"</i> 😈</p>
 </div>
 
 <hr>
