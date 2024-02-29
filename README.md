@@ -8,9 +8,9 @@
 
 
 <div style="display: inline-block; margin-left: 20px;">
- <p>🌟 I main on <i><b>Flutter</b></i>, <i><b>React.js</b></i>, <i><b>Next.js</b></i>,  and <i><b>Django/DRF</b></i></p>
- <p>💖 Programming languages I usually use are <i><b>Dart</b></i>, <i><b>JavaScript</b></i>, <i><b>TypeScript</b></i>, and <i><b>Python</b></i></p>
- <p>🎯 Currently learning <i><b>Svelte</b></i>, <i><b>PHP</b></i>, and <i><b>Laravel</b></i></p>
+ <p>🌟 I main on <i><b>Flutter</b></i>, <i><b>React</b></i>, and <i><b>Svelte</b></i></p>
+ <p>💖 Programming languages that I love are <i><b>Dart</b></i> and <i><b>JavaScript</b></i>
+ <p>🎯 Currently learning <i><b>PHP</b></i> and <i><b>Laravel</b></i></p>
  <p>📝 All of my projects and resume are available at <i><a href="https://dhaniam.github.io/My-CV-2/" target="_blank">my website</a></i></p>
  <p>📫 How to reach me: <i><a href="mailto:dhani.a.mm@gmail.com" target="_blank">dhani.a.mm@gmail.com</a></i></p>
  <p>🕹️ Fun fact: <b>I love playing games!!!!</b> (My Favorite: RDR2 💓)</p>
@@ -47,14 +47,17 @@ I have graduated from medical school before, but I don't feel fulfilled in this 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" alt="php" width="60" height="40"/> </a> 
 
 <!-- Framework & Library -->
 <h3 align="left">Framework & library:</h3>
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/events/nextjs-boilerplate-logo.png" alt="nextjs" width="40" height="40"/> </a> 
+<a href="https://svelte.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" alt="svelte" width="32" height="40"/> </a> 
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" alt="postgresql" width="60" height="40"/> </a> 
 
 <!-- Tools -->
 <h3 align="left">Tools:</h3>
@@ -63,15 +66,16 @@ I have graduated from medical school before, but I don't feel fulfilled in this 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://www.notion.so" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/1024px-Notion-logo.svg.png" alt="notion" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/id_en/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Adobe_Premiere_Pro_Logo.svg/768px-Adobe_Premiere_Pro_Logo.svg.png" alt="premiere pro" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/id_en/products/aftereffects.html" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/A/after-effects-cs6-logo-EC9F3A3961-seeklogo.com.png" alt="after effect" width="40" height="40"/> </a>
 <hr/>
 
 <!-- GIF -->
-<img alt="landscape" width="100%" src="https://i.pinimg.com/originals/27/1f/9e/271f9e3efbc58dbb075903c7096ba99c.gif">
-
+<p align="center">
+<img alt="landscape" width="50%" src="https://i.pinimg.com/originals/27/1f/9e/271f9e3efbc58dbb075903c7096ba99c.gif">
+</p>
 <!-- Streak -->
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhaniam&theme=default" alt="dhaniam" />
