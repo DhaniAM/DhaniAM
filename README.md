@@ -11,7 +11,7 @@
  <p>🌟 I main on <i><b>Flutter</b></i>, <i><b>React</b></i>, <i><b>Svelte</b></i>, and <i><b>Laravel</b></i></p>
  <p>💖 Programming languages that I love are <i><b>Dart</b></i> and <i><b>JavaScript</b></i>
  <p>🎯 Currently learning <i><b>Inertia</b></i></p>
- <p>📝 All of my projects and resume are available at <i><a href="https://dhaniam.github.io/My-CV-2/" target="_blank">my website</a></i></p>
+ <p>📝 All of my projects and resume are available at <i><a href="https://ramadhani.my.id/" target="_blank">my website</a></i></p>
  <p>📫 How to reach me: <i><a href="mailto:dhani.a.mm@gmail.com" target="_blank">dhani.a.mm@gmail.com</a></i></p>
  <p>🕹️ Fun fact: <b>I love games!!!!</b> (Favorite: RDR2 💓)</p>
  <p>💻 <i>"Premature optimization is the root of all evil"</i> 😈</p>
