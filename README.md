@@ -4,16 +4,16 @@
 <h3 align="center"><i>A passionate developer focuses on what is given at hand</i></h3>
 
 <!-- GIF -->
-<img align="right" alt="cat coding" width="190" src="https://gifdb.com/images/high/black-cat-typing-fast-z5sz7os422wrp0pt.webp">
+<img align="right" alt="cat coding" width="280" src="https://gifdb.com/images/high/black-cat-typing-fast-z5sz7os422wrp0pt.webp">
 
 
 <div style="display: inline-block; margin-left: 20px;">
- <p>🌟 I main on <i><b>Flutter</b></i>, <i><b>React</b></i>, and <i><b>Svelte</b></i></p>
+ <p>🌟 I main on <i><b>Flutter</b></i>, <i><b>React</b></i>, <i><b>Svelte</b></i>, and <i><b>Laravel</b></i></p>
  <p>💖 Programming languages that I love are <i><b>Dart</b></i> and <i><b>JavaScript</b></i>
- <p>🎯 Currently learning <i><b>PHP</b></i> and <i><b>Wordpress</b></i></p>
+ <p>🎯 Currently learning <i><b>Inertia</b></i></p>
  <p>📝 All of my projects and resume are available at <i><a href="https://dhaniam.github.io/My-CV-2/" target="_blank">my website</a></i></p>
  <p>📫 How to reach me: <i><a href="mailto:dhani.a.mm@gmail.com" target="_blank">dhani.a.mm@gmail.com</a></i></p>
- <p>🕹️ Fun fact: <b>I love playing games!!!!</b> (My Favorite: RDR2 💓)</p>
+ <p>🕹️ Fun fact: <b>I love games!!!!</b> (Favorite: RDR2 💓)</p>
  <p>💻 <i>"Premature optimization is the root of all evil"</i> 😈</p>
 </div>
 
@@ -35,41 +35,55 @@ I have graduated from medical school before, but I don't feel fulfilled in this 
 
 <!-- Connect -->
 <h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/ramadhani-a-a9a3a1193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramadhani-a-a9a3a1193" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ramadhani-a-a9a3a1193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19120929" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19120929" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ramadhani_a_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ramadhani_a_m" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/DhaniAM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhaniam" height="30" width="40" /></a>
 <a href="https://instagram.com/dhani_a_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhani_a_m" height="30" width="40" /></a>
 
+
 <!-- Language -->
 <h3 align="left">Programming languages:</h3>
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" alt="php" width="60" height="40"/> </a> 
+<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" alt="php" width="60" height="40"/></a> 
 
 <!-- Framework & Library -->
-<h3 align="left">Framework & library:</h3>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/events/nextjs-boilerplate-logo.png" alt="nextjs" width="40" height="40"/> </a> 
-<a href="https://svelte.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" alt="svelte" width="32" height="40"/> </a> 
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" alt="postgresql" width="60" height="40"/> </a> 
+<h3 align="left">Frameworks & libraries:</h3>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://yt3.ggpht.com/PTfpt7NG6STitdtR43_rNZJfT1hvUiAjYeJbGgC6ucaKSwbYOrsRqDOhfgeiibYE13diVOYE6g=s68-c-k-c0x00ffffff-no-rj" alt="laravel" width="40" height="40"/></a> 
+<a href="https://svelte.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" alt="svelte" width="32" height="40"/></a> 
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/862px-React-icon.svg.png" alt="react" width="40" height="40"/></a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/events/nextjs-boilerplate-logo.png" alt="nextjs" width="40" height="40"/></a> 
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="tailwind" height="40" width="40"/></a> 
+<a href="https://alpinejs.dev/" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/1216548453871951873/9xHO0vCF_400x400.jpg" alt="alpinejs" width="40" height="40"/></a> 
+<a href="https://laravel-livewire.com/" target="_blank" rel="noreferrer"> <img src="https://files.svgcdn.io/devicon/livewire.png" alt="livewire" width="40" height="40"/></a> 
+<a href="https://filamentphp.com/" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/1619675369333788674/FVauPXtT_400x400.jpg" alt="filament" width="40" height="40"/></a> 
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a> 
+<a href="https://orm.drizzle.team/" target="_blank" rel="noreferrer"> <img src="https://images.opencollective.com/drizzle-orm/9405e48/logo/256.png" alt="drizzle" width="40" height="40"/></a> 
+<a href="https://inertiajs.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/47703742?s=280&v=4" alt="inertia" width="40" height="40"/></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/></a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" alt="postgresql" width="60" height="40"/></a> 
+
 
 <!-- Tools -->
 <h3 align="left">Tools:</h3>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://www.notion.so" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/1024px-Notion-logo.svg.png" alt="notion" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/id_en/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Adobe_Premiere_Pro_Logo.svg/768px-Adobe_Premiere_Pro_Logo.svg.png" alt="premiere pro" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/id_en/products/aftereffects.html" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/A/after-effects-cs6-logo-EC9F3A3961-seeklogo.com.png" alt="after effect" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/></a>
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://palcomtech.ac.id/wp-content/uploads/2024/02/IntelliJ-IDEA.png" alt="intellij" width="40" height="40"/></a>
+<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/1200px-Android_Studio_icon_%282023%29.svg.png" alt="android-studio" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+<a href="https://www.notion.so" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/1024px-Notion-logo.svg.png" alt="notion" width="40" height="40"/></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
+<a href="https://vite.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1200px-Vitejs-logo.svg.png" alt="vite" width="40" height="40"/></a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/2048px-Icons8_flat_linux.svg.png" alt="linux" width="40" height="40"/></a>
+<a href="https://pnpm.io/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373778/light-pnpm.svg" alt="pnpm" width="36" height="36"/></a>
+<a href="https://bun.com/" target="_blank" rel="noreferrer"> <img src="https://bun.com/icons/icon-512x512.png" alt="bun" width="40" height="40"/></a>
+<a href="https://termius.com/" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/s7BahziUDNS1uw0uOrsmod7uGCJtm-Wd0YAjKawgv8kVy0Pm1RGAItxQZA_NKRkukiU" alt="termius" width="40" height="40"/></a>
+
 <hr/>
 
 <!-- GIF -->
