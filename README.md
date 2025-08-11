@@ -56,7 +56,7 @@ I have graduated from medical school before, but I don't feel fulfilled in this 
 <a href="https://svelte.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" alt="svelte" width="32" height="40"/></a> 
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/862px-React-icon.svg.png" alt="react" width="40" height="40"/></a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/events/nextjs-boilerplate-logo.png" alt="nextjs" width="40" height="40"/></a> 
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" alt="nextjs" width="40" height="40"/></a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="tailwind" height="40" width="40"/></a> 
 <a href="https://alpinejs.dev/" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/1216548453871951873/9xHO0vCF_400x400.jpg" alt="alpinejs" width="40" height="40"/></a> 
 <a href="https://laravel-livewire.com/" target="_blank" rel="noreferrer"> <img src="https://files.svgcdn.io/devicon/livewire.png" alt="livewire" width="40" height="40"/></a> 
